@@ -1,3 +1,6 @@
+## Author
+Anyanwu Somtochukwu (Angelo)
+
 # Menu-Driven Arithmetic Game (C++)
 
 ## Description
